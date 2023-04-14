@@ -1,0 +1,101 @@
+.container {
+  position: relative;
+  width: 100%;
+}
+
+.container img {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  padding: 0;
+}
+
+.container .btn1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  margin: 0;
+  padding: 0;
+  border: none;
+  background-color: inherit;
+  appearance: none;
+  cursor: pointer;
+}
+
+.btn1 img{
+  width: 3em;
+}
+
+.container .btn2 {
+  position: absolute;
+  top: 40%;
+  left: 80%;
+  transform: translate(-40%, -80%);
+  -ms-transform: translate(-40%, -80%);
+  margin: 0;
+  padding: 0;
+  border: none;
+  background-color: inherit;
+  appearance: none;
+  cursor: pointer;
+}
+
+.btn2 img{
+  width: 3em;
+}
+
+.container .btn3 {
+  position: absolute;
+  top: 60%;
+  left: 20%;
+  transform: translate(-60%, -20%);
+  -ms-transform: translate(-60%, -20%);
+  margin: 0;
+  padding: 0;
+  border: none;
+  background-color: inherit;
+  appearance: none;
+  cursor: pointer;
+}
+
+.btn3 img{
+  width: 3em;
+}
+
+.container .btn4 {
+  position: absolute;
+  top: 40%;
+  left: 30%;
+  transform: translate(-40%, -30%);
+  -ms-transform: translate(-40%, -30%);
+  margin: 0;
+  padding: 0;
+  border: none;
+  background-color: inherit;
+  appearance: none;
+  cursor: pointer;
+}
+
+.btn4 img{
+  width: 3em;
+}
+
+.container .btn5 {
+  position: absolute;
+  top: 60%;
+  left: 70%;
+  transform: translate(-60%, -70%);
+  -ms-transform: translate(-60%, -70%);
+  margin: 0;
+  padding: 0;
+  border: none;
+  background-color: inherit;
+  appearance: none;
+  cursor: pointer;
+}
+
+.btn5 img{
+  width: 3em;
+}
